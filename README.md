@@ -9,8 +9,6 @@ Most recently, I have become very interested in **computational techniques for a
 
 <br/><br/>
 ## and single-cell RNA sequencing
-<br>
-<br>
 ![single-cell RNA sequencing](https://i.imgur.com/QYgiNEC.png).
 
 <!--
