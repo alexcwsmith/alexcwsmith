@@ -5,7 +5,7 @@ I am a neuroscientist at Mount Sinai in New York City. My training has made me p
 Most recently, I have become very interested in **computational techniques for analyzing large data sets, primarily high-volume imaging results from tissue clearing and light-sheet microscopy**, 
 <br>
 <br>
-![Light-sheet microscopy](https://i.imgur.com/zkRONvG.jpg)with (img src="image" width="40%" height="40%")
+(img src="https://i.imgur.com/zkRONvG.jpg" width="40%" height="40%")
 <br/><br/>
 ## and single-cell RNA sequencing
 ![single-cell RNA sequencing](https://i.imgur.com/QYgiNEC.png).
