@@ -2,7 +2,7 @@
  
 I am a neuroscientist at Mount Sinai in New York City. My training has made me proficient in a broad array of behavioral, cellular, and molecular techniques for studying synaptic plasticity that results from chronic drug exposure, and how this maladaptive plasticity contributes to heightened vulnerability to relapse during periods of attempted abstinence.
 <section>
-Most recently, I have become very interested in **computational techniques for analyzing large data sets, primarily high-volume imaging results from tissue clearing and light-sheet microscopy**, 
+Most recently, I have become very interested in <b>computational techniques for analyzing large data sets, primarily high-volume imaging results from tissue clearing and light-sheet microscopy</b>, 
 <br>
 <br>
 <img src="https://i.imgur.com/zkRONvG.jpg" width="40%" height="40%" ALIGN="left" />
