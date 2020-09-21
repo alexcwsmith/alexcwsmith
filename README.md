@@ -12,7 +12,7 @@ I conduct high-throughput mapping of immediate early gene expression following e
 I am currently funded by a K99 from NIDA to identify novel circuitry activated by cue-induced reinstatement of oxycodone seeking (CROS). Following identification novel structures that are necessary for reinstatement, I will use single-cell sequencing to identify genes that are regulated by CROS. In the R00 phase of this project, I will prioritize differentially expressed genes, and identify novel pharmacotherapeutic targets for prevention of relapse.
 <br><br>
 </section>
-
+<br><br><br>
 <section>
 
 <img src="https://i.imgur.com/QYgiNEC.png" width="50%" height="50%" ALIGN="left" />
