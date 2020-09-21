@@ -5,10 +5,10 @@ I am a neuroscientist at Mount Sinai in New York City. My training has made me p
 Most recently, I have become very interested in **computational techniques for analyzing large data sets, primarily high-volume imaging results from tissue clearing and light-sheet microscopy**, 
 <br>
 <br>
-(img src="https://i.imgur.com/zkRONvG.jpg" width="40%" height="40%")
+<img src="https://i.imgur.com/zkRONvG.jpg" width="40%" height="40%">
 <br/><br/>
 ## and single-cell RNA sequencing
-![single-cell RNA sequencing](https://i.imgur.com/QYgiNEC.png).
+<img src="https://i.imgur.com/QYgiNEC.png" width="50%" height="50%">
 
 <!--
 **alexcwsmith/alexcwsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
