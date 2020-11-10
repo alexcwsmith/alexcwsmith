@@ -18,10 +18,6 @@ The overarching mission for my research career is to use this approach to identi
 </section>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 <section>
 <img src="https://i.imgur.com/6cMiYvy.png" width="30%" height="30%" ALIGN="left" />
 <p>
