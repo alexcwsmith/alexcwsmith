@@ -4,7 +4,7 @@
 
 I am a neuroscientist at Mount Sinai in New York City. My research uses a broad array of behavioral, cellular, and molecular techniques to study synaptic plasticity that results from chronic drug exposure, and how this maladaptive plasticity contributes to heightened vulnerability to relapse during periods of attempted abstinence.
 <section>
-I have been coding in Python since April of 2018. I began on this journey when I became very interested in <b>computational techniques for analyzing large data sets, primarily high-volume imaging results from tissue clearing and light-sheet microscopy</b>. I use the iDISCO+ tissue clearing method to examine neuroadaptations that occur in rodent models of drug addiction, and Python to automatically detect and count cells, and to segment cell counts into regions by aligning brains to the Allen Brain Atlas. In addition to image processing, I am also interested in applying deep learning to analyze data in novel ways. I have generated a <a href='https://github.com/alexcwsmith/scNLP/>convolutional neural network (CNN)-based model for Natural Language Processing</a> via SpaCy, and found that running NLP on large bodies of texts acquired via web searches for genes and neuropsychiatric terms can accurately extract information about contributions of genes to neuropsychiatric disorders. I have also developed a generative adversarial neural network (GAN) for image enhancment which can be <a href='https://github.com/alexcwsmith/GANfocal/'>found here.</a>
+I have been coding in Python since April of 2018. I began on this journey when I became very interested in <b>computational techniques for analyzing large data sets, primarily high-volume imaging results from tissue clearing and light-sheet microscopy</b>. I use the iDISCO+ tissue clearing method to examine neuroadaptations that occur in rodent models of drug addiction, and Python to automatically detect and count cells, and to segment cell counts into regions by aligning brains to the Allen Brain Atlas. In addition to image processing, I am also interested in applying deep learning to analyze data in novel ways. I have generated a <a href='https://github.com/alexcwsmith/scNLP/>convolutional neural network (CNN)-based model for Natural Language Processing</a> via SpaCy, and found that running NLP on large bodies of texts acquired via web searches for genes and neuropsychiatric terms can accurately extract information about contributions of genes to neuropsychiatric disorders. 
 <br>
 You can view my image processing scripts at: <a href="https://github.com/alexcwsmith/imageProcessing/">Image Processing</a>
 <br>
@@ -31,7 +31,7 @@ You can view my single-cell sequencing analysis scripts at:
 </section>
 <br><br><br>
 <section>
-
+I have also developed a Generative Adversarial Network (GAN) for image enhancment which can be <a href="https://github.com/alexcwsmith/GANfocal/">found here.</a>
 
 </section>
 <!--
