@@ -16,10 +16,7 @@ You can view my image processing scripts at: <a href="https://github.com/alexcws
 <img src="https://i.imgur.com/zkRONvG.jpg" width="30%" height="30%" ALIGN="left" />
 <p>
 I conduct high-throughput mapping of immediate early gene expression following exposure to drugs of abuse, and/or following cue-induced drug seeking. This type of 
-  mapping allows unbiased discovery of novel regions that are affected by drugs of abuse. I then use iDISCO to map inputs/outputs from these regions, and 
-  optogenetic and chemogenetic interrogation of the neurocircuitry of addiction. My repository <a href="http://www.github.com/alexcwsmith/imageProcessing" 
-  style="display: inline">imageProcessing</a> contains code for analyzing both c-Fos expression as well as axons segemented by <a href="ilastik.org" 
-  style="display: inline">Ilastik</a> or <a href="https://github.com/AlbertPun/TRAILMAP" style="display: inline">TrailMap</a>.
+  mapping allows unbiased discovery of novel regions that are affected by drugs of abuse. I further use tissue clearing and light-sheet imaging to examine inputs/outsputs (retrograde- and antero-grade tracing) from these regions to identify novel circuits regulated by drugs of abuse. In order to elucidate the behavioral function of these circuits, I use optogenetic and chemogenetic manipulation of neurocircuitry of transgenic mice, using Cre-dependent techniques as well as Cre/Flp intersectiona genetics. Recently I have been highly interested in using the FosTRAP2 mice to perform targetted recombination in active populations, and using this technology to "tag" neuronal enssembles that are activated by a specific stimulus.. My repository <a href="http://www.github.com/alexcwsmith/imageProcessing"  style="display: inline">imageProcessing</a> contains code for analyzing both c-Fos expression as well as axons segemented by <a href="ilastik.org" style="display: inline">Ilastik</a> or <a href="https://github.com/AlbertPun/TRAILMAP" style="display: inline">TrailMap</a>.
 <br>
 <br>
 The overarching mission for my research career is to use this approach to identify novel circuitry that contributes to substance use disorders (SUDs). The vast 
