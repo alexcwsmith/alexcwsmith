@@ -13,7 +13,7 @@ I have been coding in Python since April of 2018. I began on this journey when I
 <br>
 You can view my image processing scripts at: <a href="https://github.com/alexcwsmith/imageProcessing/">Image Processing</a>
 <br>
-<img src="https://i.imgur.com/zkRONvG.jpg" width="30%" height="30%" ALIGN="left" />
+<img src="https://imgur.com/9ErGhMh.jpg" width="30%" height="30%" ALIGN="left" />
 <p>
 I conduct high-throughput mapping of immediate early gene expression following exposure to drugs of abuse, and/or following cue-induced drug seeking. This type of 
   mapping allows unbiased discovery of novel regions that are affected by drugs of abuse. I further use tissue clearing and light-sheet imaging to examine inputs/outputs (retrograde- and antero-grade tracing) from these regions to identify novel circuits regulated by drugs of abuse. In order to elucidate the behavioral function of these circuits, I use optogenetic and chemogenetic manipulation of neurocircuitry of transgenic mice, using Cre-dependent techniques as well as Cre/Flp intersectional genetics. Recently I have been highly interested in using the FosTRAP2 mice to perform targetted recombination in active populations, and using this technology to "tag" neuronal enssembles that are activated by a specific stimulus.. My repository <a href="http://www.github.com/alexcwsmith/imageProcessing"  style="display: inline">imageProcessing</a> contains code for analyzing both c-Fos expression as well as axons segmented by <a href="ilastik.org" style="display: inline">Ilastik</a> or <a href="https://github.com/AlbertPun/TRAILMAP" style="display: inline">TrailMap</a>.
