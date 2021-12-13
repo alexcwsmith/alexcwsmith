@@ -2,11 +2,9 @@
 
 <a href="https://github.com/alexcwsmith?tab=repositories">Click here to skip this introduction and view all of my repositories</a>
 
-I am a neuroscientist at Mount Sinai in New York City. My research uses a broad array of behavioral, cellular, and molecular techniques to study synaptic 
-plasticity that results from chronic drug exposure, and how this maladaptive plasticity contributes to heightened vulnerability to relapse during periods of 
-attempted abstinence.
+I am a neuroscientist & professor at the Medical University of South Carolina, in Charleston. My research uses a broad array of behavioral, cellular, and molecular techniques to study synaptic plasticity that results from chronic drug exposure, and how this maladaptive plasticity contributes to heightened vulnerability to relapse during periods of attempted abstinence.
 <section>
-I have been coding in Python since April of 2018. I began on this journey when I became very interested in <b>computational techniques for analyzing large data
+I have been coding in Python since 2018. I began on this journey when I became very interested in <b>computational techniques for analyzing large data
  sets, primarily high-volume imaging results from tissue clearing and light-sheet microscopy</b>. I use the iDISCO+ tissue clearing method to examine 
  neuroadaptations that occur in rodent models of drug addiction, and Python to automatically detect and count cells, and to segment cell counts into regions by 
  aligning brains to the Allen Brain Atlas.
